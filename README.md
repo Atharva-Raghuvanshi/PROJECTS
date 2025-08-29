@@ -16,7 +16,7 @@ It will grow as I learn and build more.
 ## 🛠️ Tech Stack
 - **Languages**: C, C++, Python (expanding as I learn more)
 - **Tools**: VS Code, Git, GitHub
-- **OS**: Windows 10
+- **OS**: Windows 11
 
 ---
 
@@ -36,4 +36,5 @@ It will grow as I learn and build more.
 ## 📬 Contact
 👤 Atharva Raghuvanshi  
 🔗 [GitHub Profile](https://github.com/Atharva-Raghuvanshi)  
+
 
