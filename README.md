@@ -28,7 +28,7 @@ It will grow as I learn and build more.
 
 ## ✨ Future Plans
 - Add more structured projects with proper documentation.
-- Expand into web development and AI tools.
+- Expand into AI tools.
 - Maintain clean code with version control.
 
 ---
@@ -36,5 +36,6 @@ It will grow as I learn and build more.
 ## 📬 Contact
 👤 Atharva Raghuvanshi  
 🔗 [GitHub Profile](https://github.com/Atharva-Raghuvanshi)  
+
 
 
